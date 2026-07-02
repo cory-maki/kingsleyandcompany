@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /
 Disallow: /privacy.html
 
-Sitemap: https://kingsleyandcompany.netlify.app/sitemap.xml
+Sitemap: https://kingsleyandcompanycincinnati.netlify.app/sitemap.xml
